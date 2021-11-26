@@ -10,6 +10,8 @@ namespace ConsoleAppCSharpBase
     {
         static void Main(string[] args)
         {
+            Console.ReadLine();
+            Console.WriteLine(2);
         }
     }
 }
