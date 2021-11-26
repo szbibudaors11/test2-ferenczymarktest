@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "read",
+      "setup": "",
+      "run": "readFile()",
+      "input": "1",
+      "output": "2",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
